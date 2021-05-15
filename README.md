@@ -3,8 +3,6 @@
 My name is Daniel. 
 I live in Portugal and I love programming in .net (c#, etc) and lua.
 
-* About the project I'm working on :
- - Some small Roblox games (private by now)
 
 * Contact me on discord: danieltg#9103
 
